@@ -5,3 +5,6 @@ venv/
 .venv/
 *.log
 .DS_Store
+token.txt
+valera_qwen.py
+logs/
